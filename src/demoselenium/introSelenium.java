@@ -15,6 +15,7 @@ public class introSelenium {
 		WebDriver driver = new ChromeDriver();		
 		WebDriver driver1 = new FirefoxDriver();
 		WebDriver drvier2 = new EdgeDriver();
+		WebDriver drvier3 = new EdgeDriver();
 		
 		
 	}
